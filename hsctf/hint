@@ -1,0 +1,17 @@
+web chall:
+
+use database;
+show collections;
+db.getCollectionNames();
+db.collection.find();
+
+
+
+
+
+hsctf{that_was_pretty_easy_right}
+hsctf{wow_you_are_agent_keith_now}
+hsctf{mysql_real_escape_string}
+hsctf{google_forms_regex_cant_stop_nobody}
+hsctf{watch_out_for_keyloggers}
+hsctf{php_type_juggling_is_fun}
